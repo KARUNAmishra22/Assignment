@@ -1,0 +1,1 @@
+print('''Karuna''' .ljust(15))
